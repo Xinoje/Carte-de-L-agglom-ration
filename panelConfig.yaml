@@ -2,7 +2,7 @@ title: Carte de Fougères Agglomération
 flow:
   svg: "https://raw.githubusercontent.com/Xinoje/Carte-de-L-agglom-ration/main/carte.svg"
 options:
-  theme: dark
+  theme: light
   zoom:
     enabled: true
     min: 0.1
